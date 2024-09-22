@@ -1,0 +1,2 @@
+/usr/bin/ar qc libopenvr_api.a  CMakeFiles/openvr_api.dir/openvr_api_public.o CMakeFiles/openvr_api.dir/jsoncpp.o CMakeFiles/openvr_api.dir/vrcore/dirtools_public.o CMakeFiles/openvr_api.dir/vrcore/envvartools_public.o CMakeFiles/openvr_api.dir/vrcore/pathtools_public.o CMakeFiles/openvr_api.dir/vrcore/sharedlibtools_public.o CMakeFiles/openvr_api.dir/vrcore/hmderrors_public.o CMakeFiles/openvr_api.dir/vrcore/vrpathregistry_public.o CMakeFiles/openvr_api.dir/vrcore/strtools_public.o
+/usr/bin/ranlib libopenvr_api.a
